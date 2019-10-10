@@ -10,6 +10,18 @@ A Python program that executes source code for the BEEP programming language, a 
 
 ## What I Learned
 
+* How to use the Python dictionaries
+* How to pass command line arguments to Python programs
+* How to process files in Python
+* How to create and import Python modules
+* How to utilize Python functions and classes
+* How to create customized exceptions to handle errors
+* How to utilize Python to provide RESTful services
+
+## Installation 
+Clone the repository wherever you like (e.g. `~/Desktop/Beep`): 
+`git clone https://github.com/geoffreysessums/Beep.git`
+
 ## Credits
 
 Author: Geoffrey Sessums
