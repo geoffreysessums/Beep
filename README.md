@@ -6,7 +6,7 @@ Language: Python
 
 ## Description
 
-A Python program that executes source code for the BEEP programming language, a made-up language that a business will use for data transformations to provide RESTful services.
+A Python program that executes source code for the BEEP programming language, a made-up language.
 
 ## What I Learned
 
