@@ -16,7 +16,6 @@ A Python program that executes source code for the BEEP programming language, a 
 * How to create and import Python modules
 * How to utilize Python functions and classes
 * How to create customized exceptions to handle errors
-* How to utilize Python to provide RESTful services
 
 ## Installation 
 Clone the repository wherever you like (e.g. `~/Desktop/Beep`): 
